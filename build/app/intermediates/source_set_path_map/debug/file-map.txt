@@ -1,0 +1,12 @@
+com.example.todo.app-debug-0 C:\Flutterapp\todo\android\app\src\debug\res
+com.example.todo.app-main-1 C:\Flutterapp\todo\android\app\src\main\res
+com.example.todo.app-pngs-2 C:\Flutterapp\todo\build\app\generated\res\pngs\debug
+com.example.todo.app-resValues-3 C:\Flutterapp\todo\build\app\generated\res\resValues\debug
+com.example.todo.app-rs-4 C:\Flutterapp\todo\build\app\generated\res\rs\debug
+com.example.todo.app-mergeDebugResources-5 C:\Flutterapp\todo\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.todo.app-mergeDebugResources-6 C:\Flutterapp\todo\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.todo.app-merged_res-7 C:\Flutterapp\todo\build\app\intermediates\merged_res\debug
+com.example.todo.app-jetified-window-java-1.0.0-beta04-8 C:\Users\mhdri\.gradle\caches\transforms-3\128f7549c3f81d242aa9f589ae0024c0\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.todo.app-core-1.6.0-9 C:\Users\mhdri\.gradle\caches\transforms-3\6be47b444a85e07a3d357c809ce146d4\transformed\core-1.6.0\res
+com.example.todo.app-jetified-window-1.0.0-beta04-10 C:\Users\mhdri\.gradle\caches\transforms-3\af57bbf1db2f2efb49b62e9468110ecb\transformed\jetified-window-1.0.0-beta04\res
+com.example.todo.app-jetified-annotation-experimental-1.1.0-11 C:\Users\mhdri\.gradle\caches\transforms-3\d4596ac79b815af659049f699c8e05bf\transformed\jetified-annotation-experimental-1.1.0\res
